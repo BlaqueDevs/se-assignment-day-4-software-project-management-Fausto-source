@@ -76,24 +76,39 @@ Effective cost control is critical in software project management as it ensures 
 Key benefits include:
 
 Financial Stability – Prevents overspending, ensuring the project remains financially viable.
+
 Higher ROI (Return on Investment) – Optimized costs contribute to a better balance between expenses and project value.
+
 Client Satisfaction – Staying within budget builds trust and credibility with stakeholders.
+
 Resource Optimization – Helps allocate human and technical resources efficiently.
+
 Project Completion Assurance – Avoids financial constraints that might halt or delay project completion.
+
 Competitive Advantage – A cost-effective project increases profitability and allows reinvestment in future initiatives.
+
 Risk Mitigation – Prevents unexpected financial shortfalls that can derail progress.
 
 To keep software projects within budget, project managers can adopt the following strategies:
 
 Accurate Cost Estimation
+
 Define Clear Project Scope
+
 Implement Agile Budgeting
+
 Monitor & Track Expenses Regularly
+
 Prioritize Critical Tasks & Features
+
 Optimize Resource Allocation
+
 Use Cost Control Tools & Automation
+
 Plan for Contingencies
+
 Engage Stakeholders & Ensure Transparency
+
 Conduct Post-Project Financial Reviews
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
